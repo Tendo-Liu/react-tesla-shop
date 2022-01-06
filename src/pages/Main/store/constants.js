@@ -1,0 +1,1 @@
+export const CHANGE_MAINDATA = 'CHANGE_MAINDATA';
