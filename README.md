@@ -4,7 +4,14 @@
 React + React Hooks + Koa  特斯拉商城应用
 
 #### 软件架构
-软件架构说明
+├─api                   // 网路请求代码、工具类函数和相关配置
+├─assets                // 字体配置及全局样式
+├─baseUI                // 基础 UI 轮子
+├─components            // 可复用的 UI 组件
+├─routes                // 路由配置文件
+└─store                 //redux 相关文件
+  App.jsx                // 根组件
+  main.jsx              // 入口文件
 
 
 #### 安装教程

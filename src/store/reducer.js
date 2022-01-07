@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import { reducer as mainReducer } from '../pages/Main/store/index'
-
-
+import { reducer as mainReducer } from '../pages/Tesla/store/index.js';
+import { reducer as ActiveReducer } from '../pages/Activity/store'
 
 export default combineReducers({
-    main: mainReducer,
+    tesla: mainReducer,
+    active: ActiveReducer
 });

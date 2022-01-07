@@ -1,8 +1,12 @@
 import React, { lazy, Suspense } from 'react';
-import BlankLayout from '../layouts/BlankLayout';
-import { Redirect, Link } from 'react-router-dom';
-const Main = lazy(()=> import('../pages/Main/Main'));
-import Tabbuttom from '../components/tabbuttom/Tabbuttom';
+import HomeLayout from '../layouts/HomeLayout';
+import { Redirect } from 'react-router-dom';
+
+// 路由级别组件
+const Tesla = lazy(() => import('../pages/Tesla'));
+const Find = lazy(() => import('../pages/Find'));
+const TesMap = lazy(() => import('../pages/TesMap'));
+const Activity = lazy(() => import('../pages/Activity'));
 
 const SuspenseComponent = Component => props => {
     return (
@@ -13,28 +17,29 @@ const SuspenseComponent = Component => props => {
 }
 
 export default [{
-    component: BlankLayout,
-    routes:[
+    path: "/",
+    component: HomeLayout,
+    routes: [
         {
-            path:'/',
+            path: '/',
             exact: true,
-            render: () => < Redirect to = { "/home" }/>,
+            render: () => < Redirect to={"/tesla"} />,
         },
         {
-            path:'/home',
-            component: Tabbuttom,
-            routes: [
-                {
-                    path: '/home',
-                    exact: true,
-                    render: () => < Redirect to = { "/home/main" }
-                    />,
-                },
-                {
-                    path: '/home/main',
-                    component: SuspenseComponent(Main),
-                }
-            ]
+            path: "/tesla",
+            component: SuspenseComponent(Tesla)
+        },
+        {
+            path: "/find",
+            component: SuspenseComponent(Find)
+        },
+        {
+            path: "/tesMap",
+            component: SuspenseComponent(TesMap)
+        },
+        {
+            path: "/activity",
+            component: SuspenseComponent(Activity)
         }
     ]
 }]

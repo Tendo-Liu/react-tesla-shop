@@ -1,13 +1,16 @@
 import * as actionTypes from './constants';
 
 const defaultstate = {
-    maindata: [],
+    tesladata: [],
+    index: 2
 }
 
 const reducer = (state = defaultstate, action) => {
     switch (action.type) {
-        case actionTypes.CHANGE_MAINDATA:
-            return {...state, maindata: action.data }
+        case actionTypes.CHANGE_TESLADATA:
+            return { ...state, tesladata: action.data }
+        case actionTypes.CHNAGE_INDEX:
+            return action.index
         default:
             return state;
     }
