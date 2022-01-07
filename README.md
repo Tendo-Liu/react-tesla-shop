@@ -14,31 +14,35 @@ React + React Hooks + Koa  特斯拉商城应用
   main.jsx              // 入口文件
 
 
-#### 安装教程
+#### data: 01/07 总结
+  author: Tendo
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+  1. tabbar 切换功能
+    - 路由
+    - 高亮
+      1. spa
+      2. 匹配
+      3. 组件落地
+        route.renderRoutes()
 
-#### 使用说明
+  2. tabbar 开发流程
+    - 二级路由构建，组件动态路由落地设计
+        一级路由tabbar 二级路由 页面级别组件
+    -  全局状态中 index messageCount
+    -  MVVM tabbar 组件开发 点击时 维护状态的正确性
+    -  考虑用户
+    -  hooks 编程风格，比如在tabbar切换使用了useLocation来匹配路由
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+  3. 性能优化
+    路由 懒加载
+    组件memo
+    connect(mapStateToPorps, {})(memo(Component))
+    lazyload 图片
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+  4. 状态分寸
+    - redux 数据流为主，数据共享和一致性
+        useState（私有）是破坏性一致的
+    - 要不要用 useState，就看是否要和其他组件共享
+    - 放在reducer也有好处，复杂组件内部早晚会共享
+      严格的修改策略
+ 
