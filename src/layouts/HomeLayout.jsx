@@ -4,6 +4,7 @@ import { NavLink } from 'react-router-dom';
 import { Tab, TabItem } from './HomeLayout.style';
 import { actionCreators } from '../pages/Tesla/store'
 import { connect } from 'react-redux'
+
 import find from '../assets/Icon-font/find.png'
 import findActive from '../assets/Icon-font/findActive.png'
 import tesla from '../assets/Icon-font/tesla.png'

@@ -6,6 +6,7 @@ import { renderRoutes } from 'react-router-config';
 import routes from './routes';
 import { BrowserRouter } from 'react-router-dom';
 
+// 所有组件的外壳组件
 function App() {
   return (
     <Provider store={store}>

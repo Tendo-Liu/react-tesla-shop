@@ -1,12 +1,25 @@
-import React, { memo } from "react";
+import React, { memo, useEffect } from "react";
 import Scroll from '../../baseUI/scroll'
-// import './Server.style.js'
 import { connect } from 'react-redux'
+import { actionCreators } from './store'
 
 
 const Tesla = (props) => {
 
-  // const { tesladata } = props
+  // console.log(props)
+  
+  // state
+  const { tesladata } = props
+  // action
+  const { getMainDataDispatch } = props
+
+  // 检测redux中状态的变化，只要变化，就更新页面
+  useEffect(() => {
+    if (!tesladata.length) {
+      // 函数内容为下面的 dispatch(actionCreators.getMainData())
+      getMainDataDispatch()
+    }
+  }, [])
 
   return (
     <>
@@ -28,4 +41,12 @@ const mapStateToPorps = (state) => {
   }
 }
 
-export default connect(mapStateToPorps, {})(memo(Tesla))
+const mapStateToDispatch = (dispatch) => {
+  return {
+    getMainDataDispatch() {
+      dispatch(actionCreators.getMainData())
+    }
+  }
+}
+
+export default connect(mapStateToPorps, mapStateToDispatch)(memo(Tesla))
