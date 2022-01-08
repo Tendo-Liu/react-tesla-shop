@@ -46,3 +46,8 @@ React + React Hooks + Koa  特斯拉商城应用
     - 放在reducer也有好处，复杂组件内部早晚会共享
       严格的修改策略
  
+
+#### data: 01/08 总结
+  author: Tendo
+
+  给redux的搭建及其内部API的调用加上注释
