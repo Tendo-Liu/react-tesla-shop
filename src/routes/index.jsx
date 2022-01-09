@@ -26,12 +26,12 @@ export default [{
             render: () => < Redirect to={"/tesla"} />,
         },
         {
-            path: "/tesla",
-            component: SuspenseComponent(Tesla)
-        },
-        {
             path: "/find",
             component: SuspenseComponent(Find)
+        },
+        {
+            path: "/tesla",
+            component: SuspenseComponent(Tesla)
         },
         {
             path: "/tesMap",

@@ -17,7 +17,7 @@ const reducer = (state = defaultstate, action) => {
         case actionTypes.CHANGE_TESLADATA:
             return { ...state, tesladata: action.data }
         case actionTypes.CHNAGE_INDEX:
-            return action.index
+            return { ...state, index: action.data }
         default:
             return state;
     }

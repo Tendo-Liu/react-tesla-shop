@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { renderRoutes } from "react-router-config";
-import { NavLink } from 'react-router-dom';
+import { NavLink, useLocation } from 'react-router-dom';
 import { Tab, TabItem } from './HomeLayout.style';
 import { actionCreators } from '../pages/Tesla/store'
 import { connect } from 'react-redux'
@@ -17,10 +17,16 @@ import activityActive from '../assets/Icon-font/activityActive.png'
 
 function Home(props) {
 
-    const { route } = props;
+    const { route, changeIndexDispatch } = props;
 
-    const { index, changeIndexDispatch } = props
+    let { index } = props
 
+    // 拿到当前路径
+    const { pathname } = useLocation()
+    // console.log(pathname, route, '////////')
+
+    // 根据用户路由直接访问的处理，非首页
+    index = route.routes.findIndex(item => item.path == pathname)
 
     // const style = {
     //     bgd: {
@@ -60,7 +66,7 @@ function Home(props) {
             <Tab>
                 {/* NavLink默认会给点击的标签一个active类名，activeClassName可更改 */}
                 <NavLink to="/find" activeClassName="selected">
-                    <TabItem onClick={() => { changeIndexDispatch(actionCreators.changeIndex(1)) }}>
+                    <TabItem onClick={() => { changeIndexDispatch(1) }}>
                         {
                             index === 1
                                 ? <img src={findActive} />
@@ -70,7 +76,7 @@ function Home(props) {
                     </TabItem>
                 </NavLink>
                 <NavLink to="/tesla" activeClassName="selected">
-                    <TabItem onClick={() => { changeIndexDispatch(actionCreators.changeIndex(2)) }}>
+                    <TabItem onClick={() => { changeIndexDispatch(2) }}>
                         {
                             index === 2
                                 ? <img src={teslaActive} />
@@ -82,7 +88,7 @@ function Home(props) {
                     </TabItem>
                 </NavLink>
                 <NavLink to="/tesMap" activeClassName="selected">
-                    <TabItem onClick={() => { changeIndexDispatch(actionCreators.changeIndex(3)) }}>
+                    <TabItem onClick={() => { changeIndexDispatch(3) }}>
                         {
                             index === 3
                                 ? <img src={mapActive} />
@@ -94,7 +100,7 @@ function Home(props) {
                     </TabItem>
                 </NavLink>
                 <NavLink to="/activity" activeClassName="selected">
-                    <TabItem onClick={() => { changeIndexDispatch(actionCreators.changeIndex(4)) }}>
+                    <TabItem onClick={() => { changeIndexDispatch(4) }}>
                         {
                             index === 4
                                 ? <img src={activityActive} />

@@ -4,7 +4,7 @@ import { reqmain } from '../../../api/index'
 export const changeIndex = (data) => {
     return {
         type: actionType.CHNAGE_INDEX,
-        index: data,
+        data: data,
     }
 }
 
@@ -17,6 +17,8 @@ export const changeMainData = (data) => {
 
 // 这里的getMainData直接暴露到 import { actionCreators } from './store'就可以拿到
 export const getMainData = () => {
+    // api 请求 
+    // dispatch一个同步任务
     return (dispatch) => {
         reqmain()
             .then((res) => {
