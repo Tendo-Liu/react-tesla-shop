@@ -51,3 +51,17 @@ React + React Hooks + Koa  特斯拉商城应用
   author: Tendo
 
   给redux的搭建及其内部API的调用加上注释
+
+
+#### data: 01/09 总结
+  author: Tendo
+
+  1. 后端server搭建 Koa
+
+  2. 前端Ajax 引入数据
+  
+  3. 轮播图的实现
+
+  4. 改了个bug，当在浏览器航栏刷新时会出现tabbar Icon和文字高亮不匹配的问题
+  
+  使用 index = route.routes.findIndex(item => item.path == pathname) 绑定index
