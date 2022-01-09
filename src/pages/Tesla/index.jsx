@@ -2,6 +2,7 @@ import React, { memo, useEffect } from "react";
 import Scroll from '../../baseUI/scroll'
 import { connect } from 'react-redux'
 import { actionCreators } from './store'
+import RotationChart from '../../components/main/rotationChart/RotationChart'
 
 
 const Tesla = (props) => {
@@ -12,6 +13,8 @@ const Tesla = (props) => {
   const { tesladata } = props
   // action
   const { getMainDataDispatch } = props
+
+  const { rotationImg = [] } = tesladata
 
   // 检测redux中状态的变化，只要变化，就更新页面
   useEffect(() => {
@@ -28,7 +31,7 @@ const Tesla = (props) => {
         refresh={false} // 下拉更新为false
       >
         <div>
-          Tesla
+          <RotationChart rotationImg={rotationImg}/>
         </div>
       </Scroll>
     </>

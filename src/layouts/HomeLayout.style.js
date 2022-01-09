@@ -7,7 +7,7 @@ export const Tab = styled.div`
   left: 0;
   bottom: 0; 
   z-index: 9999;
-  height: 66px;
+  height: 3.25rem;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -15,12 +15,12 @@ export const Tab = styled.div`
   a {
     flex: 1;
     padding: 2px 0;
-    font-size: 14px;
+    font-size: 12px;
     color: black;
     text-decoration: none;
     &.selected {
       span {
-        font-weight: 700;
+        font-weight: 600;
         color: #1b1b1b;
       }
     }
@@ -38,8 +38,9 @@ export const TabItem = styled.div`
   margin-left: 30px;
   
   img {
-    height: 30px;
-    width: 30px;
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-left: 0.05rem;
     display: inline-block;
   }
 `;

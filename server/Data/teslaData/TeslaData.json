@@ -1,5 +1,24 @@
 {
-    "classify": [
-        "1", "2", "3", "4"
+    "rotationImg": [
+        {
+            "id": 1,
+            "name": "Model 3",
+            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-40-20.png"
+        },
+        {
+            "id": 2,
+            "name": "Model Y",
+            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-32.png"
+        },
+        {
+            "id": 3,
+            "name": "Model S",
+            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-36.png"
+        },
+        {
+            "id": 4,
+            "name": "Model X",
+            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-39.png"
+        }
     ]
 }
