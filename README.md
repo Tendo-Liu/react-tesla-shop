@@ -65,3 +65,14 @@ React + React Hooks + Koa  特斯拉商城应用
   4. 改了个bug，当在浏览器航栏刷新时会出现tabbar Icon和文字高亮不匹配的问题
   
   使用 index = route.routes.findIndex(item => item.path == pathname) 绑定index
+
+
+#### data: 01/10 总结
+  author: Tendo
+
+  1. 后端teslaData添加新数据
+
+  2. 添加轮播图上展现的汽车参数
+
+  3. 改了个我永远都不会忘记的bug！！
+    配完路由后记得 {renderRoutes(props.route.routes)} 开启子路由！！！
