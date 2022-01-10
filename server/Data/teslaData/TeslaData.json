@@ -3,22 +3,34 @@
         {
             "id": 1,
             "name": "Model 3",
-            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-40-20.png"
+            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-40-20.png",
+            "battery": "675",
+            "speedUp": "3.3",
+            "higtSpeed": "228"
         },
         {
             "id": 2,
             "name": "Model Y",
-            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-32.png"
+            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-32.png",
+            "battery": "660",
+            "speedUp": "5.6",
+            "higtSpeed": "217"
         },
         {
             "id": 3,
             "name": "Model S",
-            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-36.png"
+            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-36.png",
+            "battery": "637",
+            "speedUp": "2.1",
+            "higtSpeed": "322"
         },
         {
             "id": 4,
             "name": "Model X",
-            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-39.png"
+            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-39.png",
+            "battery": "547",
+            "speedUp": "2.6",
+            "higtSpeed": "249"
         }
     ]
 }

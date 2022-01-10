@@ -8,6 +8,8 @@ const Find = lazy(() => import('../pages/Find'));
 const TesMap = lazy(() => import('../pages/TesMap'));
 const Activity = lazy(() => import('../pages/Activity'));
 
+const Model3 = lazy(() => import('../pages/TeslaInfo/Model3'))
+
 const SuspenseComponent = Component => props => {
     return (
         <Suspense fallback={null}>
@@ -31,7 +33,13 @@ export default [{
         },
         {
             path: "/tesla",
-            component: SuspenseComponent(Tesla)
+            component: SuspenseComponent(Tesla),
+            routes: [
+                {
+                    path: '/tesla/:id',
+                    component: SuspenseComponent(Model3)
+                }
+            ]
         },
         {
             path: "/tesMap",

@@ -14,10 +14,12 @@ export const Tab = styled.div`
   background-color: ${style["theme-color-tab"]};
   a {
     flex: 1;
-    padding: 2px 0;
     font-size: 12px;
     color: black;
     text-decoration: none;
+    span {
+      padding-top: 3px;
+    }
     &.selected {
       span {
         font-weight: 600;
@@ -35,7 +37,7 @@ export const TabItem = styled.div`
   // 主轴
   justify-content: center;
   /* align-items: center;*/
-  margin-left: 30px;
+  margin-left: 38%;
   
   img {
     height: 1.5rem;
