@@ -19,6 +19,7 @@ export const Tab = styled.div`
     text-decoration: none;
     span {
       padding-top: 3px;
+      color: #C4C4C4;
     }
     &.selected {
       span {

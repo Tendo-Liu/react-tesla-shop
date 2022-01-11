@@ -8,7 +8,7 @@ const Find = lazy(() => import('../pages/Find'));
 const TesMap = lazy(() => import('../pages/TesMap'));
 const Activity = lazy(() => import('../pages/Activity'));
 
-const Model3 = lazy(() => import('../pages/TeslaInfo/Model3'))
+const Model = lazy(() => import('../pages/TeslaInfo/Model'))
 
 const SuspenseComponent = Component => props => {
     return (
@@ -37,7 +37,7 @@ export default [{
             routes: [
                 {
                     path: '/tesla/:id',
-                    component: SuspenseComponent(Model3)
+                    component: SuspenseComponent(Model)
                 }
             ]
         },

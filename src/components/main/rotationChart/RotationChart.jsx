@@ -3,6 +3,7 @@ import { Rotation } from './RotationChart.style.js'
 import Swiper from 'swiper'
 import 'swiper/css/swiper.min.css'
 import { Link, useHistory } from 'react-router-dom'
+import CarInfo from '../../carInfo/CarInfo.jsx';
 
 const RotationChart = (props) => {
 
@@ -24,9 +25,9 @@ const RotationChart = (props) => {
     }, 100);
   }, [])
 
-  const goToDetail = (id) => {
-    // console.log(typeof id);
-    history.push(`/tesla/${id}`)
+  const goToDetail = (item) => {
+    console.log(item);
+    history.push({pathname:`/tesla/${item.id}`, state:item})
   }
 
   return (
@@ -41,24 +42,11 @@ const RotationChart = (props) => {
                   key={index}
                 >
                   <a className='carName'>{item.name}</a>
-                  <div className='carInfo'>
-                    <span>
-                      <h1>&nbsp;&nbsp;&nbsp;&nbsp;{item.battery}&nbsp;<a>公里</a></h1>
-                      <h2>&nbsp;&nbsp;&nbsp;续航里程（预估)</h2>
-                    </span>
-                    <span style={{width: '6rem'}}>
-                      <h1>&nbsp;&nbsp;{item.speedUp}&nbsp;<a>秒</a></h1>
-                      <h2>百公里加速*</h2>
-                    </span>
-                    <span>
-                      <h1>{item.higtSpeed}&nbsp;<a>公里/小时</a></h1>
-                      <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最高车速+</h2>
-                    </span>
-                  </div>
+                  <CarInfo res={item}/>
                   <div>
                     <img className='rotationChart-img' src={item.picUrl} alt="" />
                   </div>
-                  <button onClick={()=>goToDetail(item.id)} className='carBuy'>立即订购</button>
+                  <button onClick={()=>goToDetail(item)} className='carBuy'>立即订购</button>
                 </div>
               )
             })
