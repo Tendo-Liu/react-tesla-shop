@@ -76,3 +76,14 @@ React + React Hooks + Koa  特斯拉商城应用
 
   3. 改了个我永远都不会忘记的bug！！
     配完路由后记得 {renderRoutes(props.route.routes)} 开启子路由！！！
+
+
+#### data: 01/10 总结
+  author: Tendo
+
+  1. filder爬数据拿到详情页的图片并上传gitee图床
+
+  2. 实现在轮播图中点击按钮，不同轮播图进入不同详情页 
+    onClick={()=>goToDetail(item)}
+    history.push({pathname:`/tesla/${item.id}`, state:item})
+    点击state传值给子路由组件
