@@ -87,3 +87,17 @@ React + React Hooks + Koa  特斯拉商城应用
     onClick={()=>goToDetail(item)}
     history.push({pathname:`/tesla/${item.id}`, state:item})
     点击state传值给子路由组件
+
+
+#### data: 01/12 总结
+  author: Tendo
+
+  1. 根据不同id拿到的详情页json数据编写详情页
+
+  2. 在首页和详情页的scroll顶部都加了吸顶标题
+    在scroll外面一层样式组件加上padding即可，让后标题和返回按钮在scroll同级标签
+      position: absolute;
+      top: 0;
+      display: flex;
+      align-items: center;
+      即可增加标题
