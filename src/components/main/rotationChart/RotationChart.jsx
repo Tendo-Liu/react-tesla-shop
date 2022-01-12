@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { Rotation } from './RotationChart.style.js'
 import Swiper from 'swiper'
 import 'swiper/css/swiper.min.css'
-import { Link, useHistory } from 'react-router-dom'
+import { useHistory } from 'react-router-dom'
 import CarInfo from '../../carInfo/CarInfo.jsx';
 
 const RotationChart = (props) => {
@@ -27,7 +27,7 @@ const RotationChart = (props) => {
 
   const goToDetail = (item) => {
     console.log(item);
-    history.push({pathname:`/tesla/${item.id}`, state:item})
+    history.push({ pathname: `/tesla/${item.id}`, state: item })
   }
 
   return (
@@ -42,18 +42,17 @@ const RotationChart = (props) => {
                   key={index}
                 >
                   <a className='carName'>{item.name}</a>
-                  <CarInfo res={item}/>
+                  <CarInfo res={item} />
                   <div>
                     <img className='rotationChart-img' src={item.picUrl} alt="" />
                   </div>
-                  <button onClick={()=>goToDetail(item)} className='carBuy'>立即订购</button>
+                  <button onClick={() => goToDetail(item)} className='carBuy'>立即订购</button>
                 </div>
               )
             })
           }
         </div>
         <div className="swiper-pagination">
-
         </div>
       </div>
     </Rotation>

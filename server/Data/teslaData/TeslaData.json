@@ -7,6 +7,8 @@
             "battery": "675",
             "speedUp": "3.3",
             "higtSpeed": "228",
+            "price": "265'652",
+            "mode": "后轮驱动",
             "configuration": [
                 {
                     "id": 1,
@@ -149,6 +151,33 @@
                     "id": 2,
                     "color": "black",
                     "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-03.png"
+                }
+            ],
+            "color": [
+                {
+                    "id": 1,
+                    "name": "纯黑色",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-40-49.png"
+                },
+                {
+                    "id": 2,
+                    "name": "珍珠白",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-45-55.png"
+                },
+                {
+                    "id": 3,
+                    "name": "冷光银",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-01.png"
+                },
+                {
+                    "id": 4,
+                    "name": "深海蓝",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-03.png"
+                },
+                {
+                    "id": 5,
+                    "name": "中国红",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-05.png"
                 }
             ]
         },
@@ -159,6 +188,8 @@
             "battery": "660",
             "speedUp": "5.6",
             "higtSpeed": "217",
+            "price": "301'840",
+            "mode": "后轮驱动",
             "configuration": [
                 {
                     "id": 1,
@@ -302,6 +333,33 @@
                     "color": "black",
                     "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-10.png"
                 }
+            ],
+            "color": [
+                {
+                    "id": 1,
+                    "name": "纯黑色",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-40-49.png"
+                },
+                {
+                    "id": 2,
+                    "name": "珍珠白",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-45-55.png"
+                },
+                {
+                    "id": 3,
+                    "name": "冷光银",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-01.png"
+                },
+                {
+                    "id": 4,
+                    "name": "深海蓝",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-03.png"
+                },
+                {
+                    "id": 5,
+                    "name": "中国红",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-05.png"
+                }
             ]
         },
         {
@@ -311,6 +369,8 @@
             "battery": "637",
             "speedUp": "2.1",
             "higtSpeed": "322",
+            "price": "801'421",
+            "mode": "双电机全轮驱动",
             "configuration": [
                 {
                     "id": 1,
@@ -454,6 +514,33 @@
                     "color": "black",
                     "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-03.png"
                 }
+            ],
+            "color": [
+                {
+                    "id": 1,
+                    "name": "纯黑色",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-40-49.png"
+                },
+                {
+                    "id": 2,
+                    "name": "珍珠白",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-45-55.png"
+                },
+                {
+                    "id": 3,
+                    "name": "冷光银",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-01.png"
+                },
+                {
+                    "id": 4,
+                    "name": "深海蓝",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-03.png"
+                },
+                {
+                    "id": 5,
+                    "name": "中国红",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-05.png"
+                }
             ]
         },
         {
@@ -463,6 +550,8 @@
             "battery": "547",
             "speedUp": "2.6",
             "higtSpeed": "249",
+            "price": "411'986",
+            "mode": "三电机全轮驱动",
             "configuration": [
                 {
                     "id": 1,
@@ -605,6 +694,33 @@
                     "id": 2,
                     "color": "black",
                     "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-10.png"
+                }
+            ],
+            "color": [
+                {
+                    "id": 1,
+                    "name": "纯黑色",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-40-49.png"
+                },
+                {
+                    "id": 2,
+                    "name": "珍珠白",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-45-55.png"
+                },
+                {
+                    "id": 3,
+                    "name": "冷光银",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-01.png"
+                },
+                {
+                    "id": 4,
+                    "name": "深海蓝",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-03.png"
+                },
+                {
+                    "id": 5,
+                    "name": "中国红",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-05.png"
                 }
             ]
         }

@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Rotation = styled.div`
   width: 100vw;
-  height: calc(100vh + 3.25rem);
+  height: 100vh;
   overflow: hidden;
   .rotationChart-img {
     width: 100vw;
@@ -14,14 +14,13 @@ export const Rotation = styled.div`
     transform: translate(-50%);
     position: absolute;
     font-size: 1.5rem;
-    font-family: initial;
     font-weight: 400;
   }
   .carBuy {
     position: absolute;
     left: 50%;
     transform: translate(-50%);
-    z-index: 999;
+    z-index: 1000;
     width: 20rem;
     top: 83.5%;
     background-color: #4E4E53;

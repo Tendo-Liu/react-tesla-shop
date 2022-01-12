@@ -4,11 +4,12 @@ export const Container = styled.div`
     .carInfo {
         position: absolute;
         display: flex;
-        margin-left: 7%;
+        width: 100%;
+        justify-content: center;
         line-height: 5px;
         top: 72%;
+        color: white;
         span {
-            color: white;
             font-size: 10px;
             width: 8rem;
             a, h2 {

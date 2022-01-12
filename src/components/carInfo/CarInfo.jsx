@@ -6,8 +6,8 @@ const CarInfo = (props) => {
     return (
         <Container>
             <div className='carInfo'>
-                <span>
-                    <h1>&nbsp;&nbsp;&nbsp;&nbsp;{res.battery}&nbsp;<a>公里</a></h1>
+                <span style={{ paddingLeft: '1.5rem' }}>
+                    <h1>&nbsp;&nbsp;&nbsp;{res.battery}&nbsp;<a>公里</a></h1>
                     <h2>&nbsp;&nbsp;&nbsp;续航里程（预估)</h2>
                 </span>
                 <span style={{ width: '6rem' }}>

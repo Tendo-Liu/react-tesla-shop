@@ -6,7 +6,7 @@ export const Tab = styled.div`
   right: 0;
   left: 0;
   bottom: 0; 
-  z-index: 9999;
+  z-index: 1111;
   height: 3.25rem;
   display: flex;
   flex-direction: row;

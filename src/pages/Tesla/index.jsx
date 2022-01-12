@@ -12,7 +12,7 @@ const Tesla = (props) => {
 
   // console.log(props.route.routes)
   let { route } = props
-  
+
   // state
   const { tesladata } = props
   // action
@@ -30,12 +30,13 @@ const Tesla = (props) => {
 
   return (
     <Main>
+      <div className="title">特斯拉Tesla</div>
       <Scroll
         direction="vertical" // 垂直滚动
         refresh={false} // 下拉更新为false
       >
         <div>
-          <RotationChart rotationImg={rotationImg}/>
+          <RotationChart rotationImg={rotationImg} />
         </div>
       </Scroll>
       {/* 一定要开启子路由 */}
