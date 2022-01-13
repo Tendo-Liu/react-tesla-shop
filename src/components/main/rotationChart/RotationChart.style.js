@@ -22,7 +22,7 @@ export const Rotation = styled.div`
     transform: translate(-50%);
     z-index: 1000;
     width: 20rem;
-    top: 83.5%;
+    top: 82.5%;
     background-color: #4E4E53;
     line-height: 2.5rem;
     border-radius: 30px;

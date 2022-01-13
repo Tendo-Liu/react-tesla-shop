@@ -7,7 +7,7 @@ export const Container = styled.div`
         width: 100%;
         justify-content: center;
         line-height: 5px;
-        top: 72%;
+        top: 70%;
         color: white;
         span {
             font-size: 10px;

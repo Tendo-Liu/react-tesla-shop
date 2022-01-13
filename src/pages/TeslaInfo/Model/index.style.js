@@ -100,15 +100,34 @@ export const Container = styled.div`
             font-size: 24px;
             font-weight: 400;
         }
-        .carColor {
+        span {
+            margin-left: 50%;
+            transform: translate(-50%);
             display: inline-block;
+            padding-bottom: 3rem;
+            font-size: 14px;
+        }
+        .carColor, .wheelColor {
+            position: relative;
             display: flex;
             justify-content: center;
-            padding-top: 2rem;
+            padding: 2rem 0 1.5rem 0;
             img {
                 margin: 0 0.5rem;
                 width: 2.5rem;
                 height: 2.5rem;
+                /* display: block; */
+            }
+            .colorImg::before {
+                border: 3px solid #4670E2;
+                content: "";
+                width: 3rem;
+                height: 3rem;
+                border-radius: 50%;
+                position: absolute;
+                display: block;
+                top: 1.6rem;
+                margin-left: 0.05rem;
             }
         }
     }

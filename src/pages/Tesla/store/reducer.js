@@ -8,7 +8,12 @@ import * as actionTypes from './constants';
 // 初始化状态
 const defaultstate = {
     tesladata: [],
-    index: 2
+    // 记录tabbar点击高亮
+    index: 2,
+    // 记录详情页车选择的颜色
+    colorIndex: 0,
+    // 记录详情页轮子所选择的样式
+    wheelIndex: 0
 }
 
 const reducer = (state = defaultstate, action) => {
@@ -16,8 +21,12 @@ const reducer = (state = defaultstate, action) => {
     switch (action.type) {
         case actionTypes.CHANGE_TESLADATA:
             return { ...state, tesladata: action.data }
-        case actionTypes.CHNAGE_INDEX:
+        case actionTypes.CHANGE_INDEX:
             return { ...state, index: action.data }
+        case actionTypes.SET_COLORINDEX:
+            return { ...state, colorIndex: action.data }
+        case actionTypes.SET_WHEELINDEX:
+            return { ...state, wheelIndex: action.data }
         default:
             return state;
     }

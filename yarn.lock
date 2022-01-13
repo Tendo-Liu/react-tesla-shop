@@ -852,6 +852,11 @@ react@^17.0.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
+redux-persist@^5.10.0:
+  version "5.10.0"
+  resolved "https://registry.npm.taobao.org/redux-persist/download/redux-persist-5.10.0.tgz#5d8d802c5571e55924efc1c3a9b23575283be62b"
+  integrity sha1-XY2ALFVx5Vkk78HDqbI1dSg75is=
+
 redux-thunk@^2.4.1:
   version "2.4.1"
   resolved "https://registry.npmmirror.com/redux-thunk/download/redux-thunk-2.4.1.tgz#0dd8042cf47868f4b29699941de03c9301a75714"

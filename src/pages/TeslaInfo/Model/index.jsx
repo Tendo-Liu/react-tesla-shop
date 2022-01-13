@@ -1,19 +1,27 @@
-import React from "react";
+import React, { useState } from "react";
 import CarInfo from '../../../components/carInfo/CarInfo';
 import Scroll from '../../../baseUI/scroll'
 import { Container } from './index.style';
 import { useHistory } from "react-router-dom";
+import { actionCreators } from "../../Tesla/store";
+import { connect } from 'react-redux'
 
 const Model = (props) => {
 
-    // console.log(state)
+    // 其实使用两个useState就可以实现选配功能，但是这里使用了redux
 
+    const { setCarColorIndex, setWheelIndex, colorIndex, wheelIndex} = props
+    
     const { state } = props.location
-    const { configuration, color } = state
+
+    const { configuration, color, mode, name, price } = state
     const history = useHistory()
 
-    // 通过不同的configuration[]
-    const { configList } = configuration[2]
+    // 通过不同的configuration[]的wheelIndex来控制车轮的样式
+    const { carColor } = configuration[wheelIndex]
+
+    // 通过控制carColor[]的index来控制车身的颜色
+    const { configList } = carColor[colorIndex]
 
     const goBack = () => {
         history.go(-1)
@@ -37,11 +45,11 @@ const Model = (props) => {
                     </div>
                     <CarInfo className="carInfo" res={state} />
                     <div className="chooseCarInfo">
-                        <span>{state.mode}</span>
+                        <span>{mode}</span>
                         <div className="carPrice">
-                            <span>{state.name}</span>
+                            <span>{name}</span>
                             <svg t="1641989252390" className="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2167" width="200" height="200"><path d="M783.612 167.565L575.025 463.258h164.392v65.367H547.91v90.024h191.507v66.184H547.91v131.088h-98.529V684.833H250.865V618.65H449.38v-90.024H250.865v-65.367h169.374L213.646 167.565h111.089c96.536 146.85 155.141 240.007 175.922 279.397h1.992c7.047-16.226 26.331-48.891 57.787-97.996l118.135-181.4h105.04z" p-id="2168" fill="#000000"></path></svg>
-                            <span>{state.price}</span>
+                            <span>{price}</span>
                         </div>
                         <div className="carInfoDetail">
                             查看详情
@@ -54,11 +62,28 @@ const Model = (props) => {
                             {
                                 color.map((item, index) => {
                                     return (
-                                        <img key={item.id} src={item.picUrl} />
+                                        <div key={item.id} className={colorIndex == item.id - 1 ? "colorImg" : ""}>
+                                            <img src={item.picUrl} onClick={() => {setCarColorIndex(item.id - 1)}} />
+                                        </div>
                                     )
                                 })
                             }
                         </div>
+                        <span>{color[colorIndex].name}</span>
+                        <img src={configList[0].picUrl} />
+                        <h2>选择轮毂</h2>
+                        <div className="wheelColor">
+                            {
+                                configuration.map((item, index) => {
+                                    return (
+                                        <div key={item.id} className={wheelIndex == item.id - 1 ? "colorImg" : ""}>
+                                            <img key={item.id} src={item.picUrl} onClick={() => {setWheelIndex(item.id - 1)}} />
+                                        </div>
+                                    )
+                                })
+                            }
+                        </div>
+                        <span>{configuration[wheelIndex].name}</span>
                     </div>
                 </div>
             </Scroll>
@@ -66,4 +91,24 @@ const Model = (props) => {
     )
 }
 
-export default Model
+const mapStateToProps = (state) => {
+    return {
+        colorIndex: state.tesla.colorIndex,
+        wheelIndex: state.tesla.wheelIndex
+    }
+}
+
+const mapStateToDispatch = (dispatch) => {
+    return {
+        // setCarColorIndex这个方法是return给这个组件然后从此组件的props解构出来的
+        setCarColorIndex(index) {
+            // actionCreators.js 里面的方法 setColorIndex
+            dispatch(actionCreators.setColorIndex(index))
+        },
+        setWheelIndex(index) {
+            dispatch(actionCreators.setWheelIndex(index))
+        }
+    }
+}
+
+export default connect(mapStateToProps, mapStateToDispatch)(React.memo(Model))

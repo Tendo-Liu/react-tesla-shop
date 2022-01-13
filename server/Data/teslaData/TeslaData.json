@@ -12,145 +12,179 @@
             "configuration": [
                 {
                     "id": 1,
-                    "color": "black",
-                    "configList": [
+                    "wheelColor": "white",
+                    "name": "18 英寸动力轮毂",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-00.png",
+                    "carColor": [
                         {
                             "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-33-30.jpg"
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-33-30.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-54.png"
+                                }
+                            ]
                         },
                         {
                             "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-13.png"
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-30-34.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-31-48.png"
+                                }
+                            ]
                         },
                         {
                             "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-24.jpg"
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-37.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-34.png"
+                                }
+                            ]
                         },
                         {
                             "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-54.png"
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-40.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-42.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-42-48.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-42-50.png"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "id": 2,
-                    "color": "blue",
-                    "configList": [
+                    "wheelColor": "black",
+                    "name": "19 英寸运动轮毂",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-03.png",
+                    "carColor": [
                         {
                             "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-40.jpg"
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-24.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-13.png"
+                                }
+                            ]
                         },
                         {
                             "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-18.png"
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-32-42.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/19-14-26.png"
+                                }
+                            ]
                         },
                         {
                             "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-14.jpg"
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-46.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-44.png"
+                                }
+                            ]
                         },
                         {
                             "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-42.png"
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-14.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-18.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-41-46.jpg"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-41-44.png"
+                                }
+                            ]
                         }
                     ]
-                },
-                {
-                    "id": 3,
-                    "color": "red",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-42-48.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-41-44.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-41-46.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-42-50.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "color": "silver",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-37.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-44.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-46.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-34.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "color": "white",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-30-34.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/19-14-26.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-32-42.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-31-48.png"
-                        }
-                    ]
-                }
-            ],
-            "wheel": [
-                {
-                    "id": 1,
-                    "color": "white",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-00.png"
-                },
-                {
-                    "id": 2,
-                    "color": "black",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-03.png"
                 }
             ],
             "color": [
@@ -193,145 +227,179 @@
             "configuration": [
                 {
                     "id": 1,
-                    "color": "black",
-                    "configList": [
+                    "wheelColor": "white",
+                    "name": "19 英寸双子星轮毂",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-07.png",
+                    "carColor": [
                         {
                             "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-38-31.png"
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-38-31.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-38-27.png"
+                                }
+                            ]
                         },
                         {
                             "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/22-31-17.png"
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-22.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-51-43.png"
+                                }
+                            ]
                         },
                         {
                             "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-47-22.png"
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-16.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-13.png"
+                                }
+                            ]
                         },
                         {
                             "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-38-27.png"
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-29.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-27.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-54-57.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-54-54.png"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "id": 2,
-                    "color": "blue",
-                    "configList": [
+                    "wheelColor": "black",
+                    "name": "20 英寸感应涡轮轮毂",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-10.png",
+                    "carColor": [
                         {
                             "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-29.png"
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-47-22.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/22-31-17.png"
+                                }
+                            ]
                         },
                         {
                             "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-53-57.png"
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-29.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-27.png"
+                                }
+                            ]
                         },
                         {
                             "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-16.png"
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-31.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-28.png"
+                                }
+                            ]
                         },
                         {
                             "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-27.png"
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-16.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-53-57.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-55-29.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-55-32.png"
+                                }
+                            ]
                         }
                     ]
-                },
-                {
-                    "id": 3,
-                    "color": "red",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-54-57.png"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-55-32.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-55-29.png"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-54-54.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "color": "silver",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-16.png"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-28.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-31.png"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-13.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "color": "white",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-22.png"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-27.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-29.png"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-51-43.png"
-                        }
-                    ]
-                }
-            ],
-            "wheel": [
-                {
-                    "id": 1,
-                    "color": "white",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-07.png"
-                },
-                {
-                    "id": 2,
-                    "color": "black",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-10.png"
                 }
             ],
             "color": [
@@ -374,145 +442,179 @@
             "configuration": [
                 {
                     "id": 1,
-                    "color": "black",
-                    "configList": [
+                    "wheelColor": "white",
+                    "name": "19 英寸暴风轮毂",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/20-25-57.png",
+                    "carColor": [
                         {
                             "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-33-30.jpg"
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/black/20-03-45.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/black/20-03-54.png "
+                                }
+                            ]
                         },
                         {
                             "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-13.png"
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/white/20-06-47.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/white/20-06-35.png"
+                                }
+                            ]
                         },
                         {
                             "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-24.jpg"
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/silver/21-13-31.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/silver/21-13-33.png"
+                                }
+                            ]
                         },
                         {
                             "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-54.png"
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/blue/20-11-19.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/blue/20-11-16.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/red/20-11-58.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/red/20-11-53.png"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "id": 2,
-                    "color": "blue",
-                    "configList": [
+                    "wheelColor": "black",
+                    "name": "21 英寸蛛网轮毂",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/20-26-00.png",
+                    "carColor": [
                         {
                             "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-40.jpg"
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/black/20-04-23.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/black/20-04-21.png"
+                                }
+                            ]
                         },
                         {
                             "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-18.png"
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/white/20-05-40.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/white/20-05-38.png"
+                                }
+                            ]
                         },
                         {
                             "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-14.jpg"
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/silver/20-07-34.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/silver/20-07-32.png"
+                                }
+                            ]
                         },
                         {
                             "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-42.png"
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/blue/20-09-42.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/blue/20-09-41.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/red/20-12-08.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/red/20-12-06.png"
+                                }
+                            ]
                         }
                     ]
-                },
-                {
-                    "id": 3,
-                    "color": "red",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-42-48.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-41-44.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-41-46.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-42-50.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "color": "silver",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-37.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-44.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-46.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-34.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "color": "white",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-30-34.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/19-14-26.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-32-42.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-31-48.png"
-                        }
-                    ]
-                }
-            ],
-            "wheel": [
-                {
-                    "id": 1,
-                    "color": "white",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-00.png"
-                },
-                {
-                    "id": 2,
-                    "color": "black",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-03.png"
                 }
             ],
             "color": [
@@ -555,145 +657,179 @@
             "configuration": [
                 {
                     "id": 1,
-                    "color": "black",
-                    "configList": [
+                    "wheelColor": "white",
+                    "name": "20 英寸赛博流轮毂",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/20-29-21.png",
+                    "carColor": [
                         {
                             "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-38-31.png"
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/black/20-30-55.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/black/20-30-52.png"
+                                }
+                            ]
                         },
                         {
                             "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/22-31-17.png"
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/white/20-33-53.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/white/20-33-48.png"
+                                }
+                            ]
                         },
                         {
                             "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-47-22.png"
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/silver/20-34-58.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/silver/20-34-55.png"
+                                }
+                            ]
                         },
                         {
                             "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-38-27.png"
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/blue/20-36-09.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/blue/20-36-05.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/red/20-36-44.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/red/20-36-47.png"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "id": 2,
-                    "color": "blue",
-                    "configList": [
+                    "wheelColor": "black",
+                    "name": "22 英寸涡轮轮毂",
+                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/20-29-19.png",
+                    "carColor": [
                         {
                             "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-29.png"
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/black/20-33-08.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/black/20-33-00.png"
+                                }
+                            ]
                         },
                         {
                             "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-53-57.png"
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/white/20-34-11.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/white/20-34-18.png"
+                                }
+                            ]
                         },
                         {
                             "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-16.png"
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/silver/20-34-50.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/silver/20-34-47.png"
+                                }
+                            ]
                         },
                         {
                             "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-27.png"
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/blue/20-35-51.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/blue/20-35-55.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/red/20-36-37.png"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/red/20-36-34.png"
+                                }
+                            ]
                         }
                     ]
-                },
-                {
-                    "id": 3,
-                    "color": "red",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-54-57.png"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-55-32.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-55-29.png"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-54-54.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "color": "silver",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-16.png"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-28.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-31.png"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-13.png"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "color": "white",
-                    "configList": [
-                        {
-                            "id": 1,
-                            "name": "head_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-22.png"
-                        },
-                        {
-                            "id": 2,
-                            "name": "body_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-27.png"
-                        },
-                        {
-                            "id": 3,
-                            "name": "head_black",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-29.png"
-                        },
-                        {
-                            "id": 4,
-                            "name": "body_white",
-                            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-51-43.png"
-                        }
-                    ]
-                }
-            ],
-            "wheel": [
-                {
-                    "id": 1,
-                    "color": "white",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-07.png"
-                },
-                {
-                    "id": 2,
-                    "color": "black",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-10.png"
                 }
             ],
             "color": [

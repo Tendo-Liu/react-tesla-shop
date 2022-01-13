@@ -26,7 +26,7 @@ const RotationChart = (props) => {
   }, [])
 
   const goToDetail = (item) => {
-    console.log(item);
+    // console.log(item);
     history.push({ pathname: `/tesla/${item.id}`, state: item })
   }
 

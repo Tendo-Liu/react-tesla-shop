@@ -3,7 +3,7 @@ import { reqmain } from '../../../api/index'
 
 export const changeIndex = (data) => {
     return {
-        type: actionType.CHNAGE_INDEX,
+        type: actionType.CHANGE_INDEX,
         data: data,
     }
 }
@@ -28,5 +28,19 @@ export const getMainData = () => {
             .catch((e) => {
                 console.log('出错了');
             })
+    }
+}
+
+export const setColorIndex = (data) => {
+    return {
+        type: actionType.SET_COLORINDEX,
+        data: data,
+    }
+}
+
+export const setWheelIndex = (data) => {
+    return {
+        type: actionType.SET_WHEELINDEX,
+        data: data,
     }
 }

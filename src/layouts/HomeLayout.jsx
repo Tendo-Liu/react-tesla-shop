@@ -20,6 +20,7 @@ function Home(props) {
     const { route, changeIndexDispatch } = props;
 
     let { index } = props
+    // console.log(index)
 
     // 拿到当前路径
     const { pathname } = useLocation()
