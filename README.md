@@ -110,12 +110,23 @@ React + React Hooks + Koa  特斯拉商城应用
     使用两个useState分别确定colorIndex和wheelIndex就可以实现不同轮胎和不同颜色的选配。
     但是由于汽车配置可能在多个页面使用到，我将配置信息都使用Redux数据流管理。
 
-
-
   2. Bug: 刷新页面时无论是state值，还是Redux里面设置的值都会回到默认初始值0
 
   3. 选配记忆功能的实现
     用浏览器的stroage其实就可以解决
     这里使用了redux 使用了数据流管理，所以可以使用redux-persist
     redux-persist实现redux持久化本地数据存储。
+
+    const storageConfig = {
+      key: 'root', // 必须有的
+      storage:storageSession, // 缓存机制
+      <!-- 必须为跟store，不能是某个属性 -->
+      whitelist: ['tesla'] // reducer 里持久化的数据,除此外均为不持久化数据
+    }
+
+
+#### data: 01/14 总结
+  author: Tendo
+
+  1. Tesla页面的编写，二级路由级别组件Order的编写
 
