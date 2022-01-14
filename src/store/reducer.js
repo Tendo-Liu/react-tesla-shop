@@ -3,10 +3,10 @@
  */
 
 import { combineReducers } from 'redux';
-import { reducer as mainReducer } from '../pages/Tesla/store';
-import { reducer as ActiveReducer } from '../pages/Activity/store'
+import { reducer as TeslaReducer } from '../pages/Tesla/store';
+import { reducer as ShopReducer } from '../pages/Shop/store'
 
 export default combineReducers({
-    tesla: mainReducer,
-    active: ActiveReducer
+    tesla: TeslaReducer,
+    shop: ShopReducer
 });

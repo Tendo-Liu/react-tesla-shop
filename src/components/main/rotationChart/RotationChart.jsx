@@ -14,7 +14,7 @@ const RotationChart = (props) => {
       new Swiper('.swiper-container', {
         loop: true,
         autoplay: {
-          delay: 2000
+          delay: 1500
         },
         pagination: {
           el: '.swiper-pagination',
@@ -27,7 +27,7 @@ const RotationChart = (props) => {
 
   const goToDetail = (item) => {
     // console.log(item);
-    history.push({ pathname: `/tesla/${item.id}`, state: item })
+    history.push({ pathname: `/tesla/car/${item.id}`, state: item })
   }
 
   return (

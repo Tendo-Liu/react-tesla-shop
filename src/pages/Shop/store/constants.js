@@ -1,0 +1,1 @@
+export const CHANGE_SHOPDATA = 'shop/CHANGE_SHOPDATA';

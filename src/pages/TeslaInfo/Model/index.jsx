@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import CarInfo from '../../../components/carInfo/CarInfo';
 import Scroll from '../../../baseUI/scroll'
 import { Container } from './index.style';

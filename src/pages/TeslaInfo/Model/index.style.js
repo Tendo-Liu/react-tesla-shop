@@ -126,7 +126,7 @@ export const Container = styled.div`
                 border-radius: 50%;
                 position: absolute;
                 display: block;
-                top: 1.6rem;
+                top: 1.57rem;
                 margin-left: 0.05rem;
             }
         }

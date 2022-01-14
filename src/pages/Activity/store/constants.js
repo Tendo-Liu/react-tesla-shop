@@ -1,1 +1,0 @@
-export const CHANGE_MAINDATA = 'tesla/CHANGE_MAINDATA';

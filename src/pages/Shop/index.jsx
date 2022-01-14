@@ -1,10 +1,10 @@
 import React from "react";
 
-const Activity = () => {
+const Shop = () => {
   return (
     <>
-      Activity
+      Shop
     </>
   )
 }
- export default Activity
+ export default Shop

@@ -2,13 +2,15 @@ import React, { lazy, Suspense } from 'react';
 import HomeLayout from '../layouts/HomeLayout';
 import { Redirect } from 'react-router-dom';
 
-// 路由级别组件
+// 一级路由级别组件
 const Tesla = lazy(() => import('../pages/Tesla'));
 const Find = lazy(() => import('../pages/Find'));
 const TesMap = lazy(() => import('../pages/TesMap'));
-const Activity = lazy(() => import('../pages/Activity'));
+const Shop = lazy(() => import('../pages/Shop'));
 
+// 二级路由级别组件
 const Model = lazy(() => import('../pages/TeslaInfo/Model'))
+const Order = lazy(() => import('../pages/TeslaInfo/Order'))
 
 const SuspenseComponent = Component => props => {
     return (
@@ -36,8 +38,13 @@ export default [{
             component: SuspenseComponent(Tesla),
             routes: [
                 {
-                    path: '/tesla/:id',
+                    // path: '/tesla/:id' 写这个会匹配进去
+                    path: '/tesla/car/:id',
                     component: SuspenseComponent(Model)
+                },
+                {
+                    path: '/tesla/order',
+                    component: SuspenseComponent(Order)
                 }
             ]
         },
@@ -46,8 +53,8 @@ export default [{
             component: SuspenseComponent(TesMap)
         },
         {
-            path: "/activity",
-            component: SuspenseComponent(Activity)
+            path: "/shop",
+            component: SuspenseComponent(Shop)
         }
     ]
 }]

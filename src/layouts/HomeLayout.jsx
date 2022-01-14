@@ -11,8 +11,8 @@ import tesla from '../assets/Icon-font/tesla.png'
 import teslaActive from '../assets/Icon-font/teslaActive.png'
 import map from '../assets/Icon-font/map.png'
 import mapActive from '../assets/Icon-font/mapActive.png'
-import activity from '../assets/Icon-font/activity.png'
-import activityActive from '../assets/Icon-font/activityActive.png'
+import shop from '../assets/Icon-font/shop.png'
+import shopActive from '../assets/Icon-font/shopActive.png'
 
 
 function Home(props) {
@@ -100,15 +100,15 @@ function Home(props) {
                         </span>
                     </TabItem>
                 </NavLink>
-                <NavLink to="/activity" activeClassName="selected">
+                <NavLink to="/shop" activeClassName="selected">
                     <TabItem onClick={() => { changeIndexDispatch(4) }}>
                         {
                             index === 4
-                                ? <img src={activityActive} />
-                                : <img src={activity} />
+                                ? <img src={shopActive} />
+                                : <img src={shop} />
                         }
                         <span>
-                            活动
+                            商城
                         </span>
                     </TabItem>
                 </NavLink>

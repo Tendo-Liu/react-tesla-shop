@@ -4,6 +4,7 @@ export const Rotation = styled.div`
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  padding-bottom: 2rem;
   .rotationChart-img {
     width: 100vw;
     display: inline-block;
