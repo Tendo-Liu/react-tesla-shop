@@ -130,3 +130,18 @@ React + React Hooks + Koa  特斯拉商城应用
 
   1. Tesla页面的编写，二级路由级别组件Order的编写
 
+
+#### data: 01/15 总结
+  author: Tendo
+
+  1. 一种中间显示主要内容，两侧附带其他页一部分内容的滑动组件
+    使用swiper3组件（Slides居中 + 自动分组）
+
+  2. 注意在 new Swiper 时要用setTimeout包着，不然在导航栏刷新页面swiper组件样式会丢失
+
+  3. 如何在react里使用百度地图API
+    npm i @uiw/react-baidu-map
+    组件 <Map> 必须包裹在 <APILoader> 组件内，该组件作用是加载百度地图 SDK。
+    其他地图组件必须作为 <Map> 的子组件使用。
+
+  4. 使用第二个后端接口将shopdata加入redux中，不同一级路由页面使用不同reducer
