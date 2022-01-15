@@ -5,3 +5,7 @@ export const reqmain = () => {
     // 默认传了 GET
     return Ajax('/tesla')
 }
+
+export const reqshop = () => {
+    return Ajax('/shop')
+}

@@ -7,6 +7,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@uiw/react-baidu-map": "^2.0.7",
     "axios": "0.19.2",
     "better-scroll": "1.15.2",
     "react": "^17.0.2",

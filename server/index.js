@@ -3,6 +3,7 @@ const Koa = require('koa')
 const router = require('koa-router')()
 const app = new Koa()
 const TeslaData = require('./Data/teslaData/TeslaData.json')
+const ShopData = require('./Data/shopData/ShopData.json')
 const cors = require('koa2-cors')
 
 app.use(
@@ -26,6 +27,13 @@ router.get('/tesla', async (ctx) => {
     ctx.response.body = {
         success: true,
         data: TeslaData
+    }
+})
+
+router.get('/shop', async (ctx) => {
+    ctx.response.body = {
+        success: true,
+        data: ShopData
     }
 })
 

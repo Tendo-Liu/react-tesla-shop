@@ -11,7 +11,7 @@ const Shop = lazy(() => import('../pages/Shop'));
 // 二级路由级别组件
 const Model = lazy(() => import('../pages/TeslaInfo/Model'))
 const Order = lazy(() => import('../pages/TeslaInfo/Order'))
-const Monthly = lazy(() => import('../pages/ShopInfo/Monthly'))
+const TeslaZone = lazy(() => import('../pages/ShopInfo/TeslaZone'))
 const TeslaShop = lazy(() => import('../pages/ShopInfo/TeslaShop'))
 
 const SuspenseComponent = Component => props => {
@@ -63,8 +63,8 @@ export default [{
                     component: SuspenseComponent(TeslaShop)
                 },
                 {
-                    path: '/shop/monthly/:id',
-                    component: SuspenseComponent(Monthly)
+                    path: '/shop/teslaZone/:id',
+                    component: SuspenseComponent(TeslaZone)
                 }
             ]
         }
