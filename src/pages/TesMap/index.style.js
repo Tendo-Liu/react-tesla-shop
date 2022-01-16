@@ -21,3 +21,14 @@ export const TeslaMap = styled.div`
         }
     }
 `
+
+export const Main = styled.div`
+    padding-top: 2.8rem;
+    .title {
+        position: absolute;
+        top: 1.5%;
+        left: 50%;
+        transform: translate(-50%);
+        font-size: 15px;
+    }
+`
