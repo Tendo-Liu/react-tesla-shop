@@ -145,3 +145,34 @@ React + React Hooks + Koa  特斯拉商城应用
     其他地图组件必须作为 <Map> 的子组件使用。
 
   4. 使用第二个后端接口将shopdata加入redux中，不同一级路由页面使用不同reducer
+
+
+#### data: 01/16 总结
+  author: Tendo
+
+  1. 如何限制向后端请求数据的数量
+    useState 一个 page
+    前端dispatch时将page作为参数传出
+      dispatch(actionCreators.getFindData(page))
+
+    在调用Ajax请求时将page作为参数传入封装好的Ajax函数中
+      export const reqfind = (page) => {
+        return Ajax(`/find/${page}`)
+      } 
+
+    后端可以从ctx.params拿到page，然后再对数组进行切割
+      router.get('/find/:page', async (ctx) => {
+
+        let { page } = ctx.params
+        let { newsList } = FindData
+
+        // 根据page做数据筛选，slice不会改变原数组
+        let list2 = newsList.slice((page-1)*limit, page*limit)
+        
+        ctx.response.body = {
+            success: true,
+            data: {
+                newsList: list2
+            }
+        }
+      })
