@@ -9,3 +9,7 @@ export const reqmain = () => {
 export const reqshop = () => {
     return Ajax('/shop')
 }
+
+export const reqfind = (page) => {
+    return Ajax(`/find/${page}`)
+}

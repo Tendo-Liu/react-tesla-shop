@@ -31,4 +31,26 @@ export const Main = styled.div`
         transform: translate(-50%);
         font-size: 15px;
     }
+    .search {
+        width: 17rem;
+        height: 1.8rem;
+        background: white;
+        position: absolute;
+        border-radius: 1rem;
+        z-index: 1;
+        margin: 1.5rem 0 0 1.5rem; 
+        svg {
+            width: 0.8rem;
+            height: 0.8rem;
+            margin-left: 0.8rem;
+            margin-top: 0.5rem;
+        }
+        .searchBar {
+            width: 13.8rem;
+            margin-left: 0.5rem;
+            border: none;
+            background: none;
+            outline: none;
+        }
+    }
 `

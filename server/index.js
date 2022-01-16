@@ -4,6 +4,7 @@ const router = require('koa-router')()
 const app = new Koa()
 const TeslaData = require('./Data/teslaData/TeslaData.json')
 const ShopData = require('./Data/shopData/ShopData.json')
+const FindData = require('./Data/findData/FindData.json')
 const cors = require('koa2-cors')
 
 app.use(
@@ -34,6 +35,24 @@ router.get('/shop', async (ctx) => {
     ctx.response.body = {
         success: true,
         data: ShopData
+    }
+})
+
+
+router.get('/find/:page', async (ctx) => {
+    // console.log(ctx.params);
+    let limit = 10
+    let { page } = ctx.params
+    let { newsList } = FindData
+
+    // 根据page做数据筛选，slice不会改变原数组
+    let list2 = newsList.slice((page-1)*limit, page*limit)
+    
+    ctx.response.body = {
+        success: true,
+        data: {
+            newsList: list2
+        }
     }
 })
 

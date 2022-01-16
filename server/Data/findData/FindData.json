@@ -1,0 +1,244 @@
+{
+    "newsList": [
+        {
+            "id": 1,
+            "title": "充电贺岁礼包上线啦",
+            "date": "2022-01-14",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/1eddc158-f8f9-4198-b352-66541b9052cb.jpg"
+        },
+        {
+            "id": 2,
+            "title": "2021年度特斯拉中国充电出行报告",
+            "date": "2022-01-12",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/dafc981c-549d-47c5-91a2-59ff08eafabc.JPG"
+        },
+        {
+            "id": 3,
+            "title": "Model Y产品信息",
+            "date": "2022-01-10",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/5455692d-2736-432f-a8ee-5afb81279b8c.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Model 3产品信息",
+            "date": "2022-01-10",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/ab906f55-8ec9-41e5-ac39-f5e62e479807.jpg"
+        },
+        {
+            "id": 5,
+            "title": "2021.44.25.2软件版本更新–操作说明",
+            "date": "2021-12-27",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/85c1586b-d41c-4e21-9dad-027eaa54005f.jpg"
+        },
+        {
+            "id": 6,
+            "title": "充电更方便|Tesla APP更新",
+            "date": "2021-11-22",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/588bf9f0-ae6f-4797-aa34-40dd5f854871.jpg"
+        },
+        {
+            "id": 7,
+            "title": "特斯拉延长保修服务产品更新",
+            "date": "2021-12-03",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/4a9d1760-cb62-4cfb-8e59-05045b5a8a89.jpg"
+        },
+        {
+            "id": 8,
+            "title": "您的Tesla App又又又更新了",
+            "date": "2021-12-15",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/a1272cd7-4e33-4cbc-ac40-ae5669cf8ec5.png"
+        },
+        {
+            "id": 9,
+            "title": "寒冷天气功能",
+            "date": "2021-12-03",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/8d2ed879-707a-4d3a-91f3-e2d680bd9c6e.png"
+        },
+        {
+            "id": 10,
+            "title": "基础版辅助驾驶功能│让舒适习以为常",
+            "date": "2021-11-O5",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/1076f1be-0da4-409b-9ad5-ffc6df231c69.png"
+        },
+        {
+            "id": 11,
+            "title": "特斯拉的「双电机」奥义",
+            "date": "2021-11-04",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/567399d7-4611-47cc-a5bc-ee3198b4d386.png"
+        },
+        {
+            "id": 12,
+            "title": "特斯拉储物空间大揭秘",
+            "date": "2021-11-O3",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/5e568e33-e1dc-45b2-85f3-77be10a75262.png"
+        },
+        {
+            "id": 13,
+            "title": "「标准」的定义是什么│看看TA的答案",
+            "date": "2022-11-13",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/1eddc158-f8f9-4198-b352-66541b9052cb.jpg"
+        },
+        {
+            "id": 14,
+            "title": "什么是特斯拉的影响力",
+            "date": "2021-11-04",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/a26be2ca-85e6-47f9-b35e-e941f56189da.png"
+        },
+        {
+            "id": 15,
+            "title": "全景更「好看」",
+            "date": "2021-11-05",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/91fe5766-afb2-4fdb-b893-8d332b20ecf7.png"
+        },
+        {
+            "id": 16,
+            "title": "如何治愈停车困难症",
+            "date": "2021-11-05",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/03c195c9-e7f0-4710-b832-974ad07b898f.jpg"
+        },
+        {
+            "id": 17,
+            "title": "2021年度特斯拉中国充电出行报告",
+            "date": "2022-01-12",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/dafc981c-549d-47c5-91a2-59ff08eafabc.JPG"
+        },
+        {
+            "id": 18,
+            "title": "Model Y产品信息",
+            "date": "2022-01-10",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/5455692d-2736-432f-a8ee-5afb81279b8c.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Model 3产品信息",
+            "date": "2022-01-10",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/ab906f55-8ec9-41e5-ac39-f5e62e479807.jpg"
+        },
+        {
+            "id": 20,
+            "title": "2021.44.25.2软件版本更新–操作说明",
+            "date": "2021-12-27",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/85c1586b-d41c-4e21-9dad-027eaa54005f.jpg"
+        },
+        {
+            "id": 21,
+            "title": "充电更方便|Tesla APP更新",
+            "date": "2021-11-22",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/588bf9f0-ae6f-4797-aa34-40dd5f854871.jpg"
+        },
+        {
+            "id": 22,
+            "title": "特斯拉延长保修服务产品更新",
+            "date": "2021-12-03",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/4a9d1760-cb62-4cfb-8e59-05045b5a8a89.jpg"
+        },
+        {
+            "id": 23,
+            "title": "您的Tesla App又又又更新了",
+            "date": "2021-12-15",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/a1272cd7-4e33-4cbc-ac40-ae5669cf8ec5.png"
+        },
+        {
+            "id": 24,
+            "title": "寒冷天气功能",
+            "date": "2021-12-03",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/8d2ed879-707a-4d3a-91f3-e2d680bd9c6e.png"
+        },
+        {
+            "id": 25,
+            "title": "基础版辅助驾驶功能│让舒适习以为常",
+            "date": "2021-11-O5",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/1076f1be-0da4-409b-9ad5-ffc6df231c69.png"
+        },
+        {
+            "id": 26,
+            "title": "特斯拉的「双电机」奥义",
+            "date": "2021-11-04",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/567399d7-4611-47cc-a5bc-ee3198b4d386.png"
+        },
+        {
+            "id": 27,
+            "title": "特斯拉储物空间大揭秘",
+            "date": "2021-11-O3",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/5e568e33-e1dc-45b2-85f3-77be10a75262.png"
+        },
+        {
+            "id": 28,
+            "title": "「标准」的定义是什么│看看TA的答案",
+            "date": "2022-11-13",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/1eddc158-f8f9-4198-b352-66541b9052cb.jpg"
+        },
+        {
+            "id": 29,
+            "title": "什么是特斯拉的影响力",
+            "date": "2021-11-04",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/a26be2ca-85e6-47f9-b35e-e941f56189da.png"
+        },
+        {
+            "id": 30,
+            "title": "全景更「好看」",
+            "date": "2021-11-05",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/91fe5766-afb2-4fdb-b893-8d332b20ecf7.png"
+        },
+        {
+            "id": 31,
+            "title": "如何治愈停车困难症",
+            "date": "2021-11-05",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/03c195c9-e7f0-4710-b832-974ad07b898f.jpg"
+        },
+        {
+            "id": 32,
+            "title": "充电贺岁礼包上线啦",
+            "date": "2022-01-14",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/1eddc158-f8f9-4198-b352-66541b9052cb.jpg"
+        },
+        {
+            "id": 33,
+            "title": "2021年度特斯拉中国充电出行报告",
+            "date": "2022-01-12",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/dafc981c-549d-47c5-91a2-59ff08eafabc.JPG"
+        },
+        {
+            "id": 34,
+            "title": "Model Y产品信息",
+            "date": "2022-01-10",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/5455692d-2736-432f-a8ee-5afb81279b8c.jpg"
+        },
+        {
+            "id": 35,
+            "title": "Model 3产品信息",
+            "date": "2022-01-10",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/ab906f55-8ec9-41e5-ac39-f5e62e479807.jpg"
+        },
+        {
+            "id": 36,
+            "title": "2021.44.25.2软件版本更新–操作说明",
+            "date": "2021-12-27",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/85c1586b-d41c-4e21-9dad-027eaa54005f.jpg"
+        },
+        {
+            "id": 37,
+            "title": "充电更方便|Tesla APP更新",
+            "date": "2021-11-22",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/588bf9f0-ae6f-4797-aa34-40dd5f854871.jpg"
+        },
+        {
+            "id": 38,
+            "title": "特斯拉延长保修服务产品更新",
+            "date": "2021-12-03",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/4a9d1760-cb62-4cfb-8e59-05045b5a8a89.jpg"
+        },
+        {
+            "id": 39,
+            "title": "您的Tesla App又又又更新了",
+            "date": "2021-12-15",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/a1272cd7-4e33-4cbc-ac40-ae5669cf8ec5.png"
+        },
+        {
+            "id": 40,
+            "title": "寒冷天气功能",
+            "date": "2021-12-03",
+            "picUrl": "https://china-community-app.tesla.cn/community-media/8d2ed879-707a-4d3a-91f3-e2d680bd9c6e.png"
+        }
+    ]
+}

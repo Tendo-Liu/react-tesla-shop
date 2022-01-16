@@ -1,0 +1,1 @@
+export const CHANGE_FINDDATA = 'find/CHANGE_FINDDATA';

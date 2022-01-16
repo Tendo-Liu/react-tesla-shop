@@ -957,7 +957,7 @@
     "object-assign" "^4.1.1"
     "react-is" "^16.13.1"
 
-"react-dom@^17.0.2", "react-dom@>= 16.8.0", "react-dom@>=16.12.0", "react-dom@>=16.8.0":
+"react-dom@^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0", "react-dom@^17.0.2", "react-dom@>= 16.8.0", "react-dom@>=16.12.0", "react-dom@>=16.8.0":
   "integrity" "sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA=="
   "resolved" "https://registry.npmmirror.com/react-dom/download/react-dom-17.0.2.tgz"
   "version" "17.0.2"
@@ -975,6 +975,11 @@
   "integrity" "sha1-5pHUqOnHiTZWVVOas3J2Kw77VPA="
   "resolved" "https://registry.npmmirror.com/react-is/download/react-is-17.0.2.tgz"
   "version" "17.0.2"
+
+"react-lazyload@^3.2.0":
+  "integrity" "sha512-zJlrG8QyVZz4+xkYZH5v1w3YaP5wEFaYSUWC4CT9UXfK75IfRAIEdnyIUF+dXr3kX2MOtL1lUaZmaQZqrETwgw=="
+  "resolved" "https://registry.npmmirror.com/react-lazyload/download/react-lazyload-3.2.0.tgz"
+  "version" "3.2.0"
 
 "react-redux@^7.2.6":
   "integrity" "sha1-SWM6JP5VK1+cr1j+uKE4k23f6ao="
