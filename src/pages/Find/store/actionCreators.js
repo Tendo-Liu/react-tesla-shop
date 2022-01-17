@@ -12,7 +12,6 @@ export const getFindData = (page) => {
     return (dispatch) => {
         reqfind(page)
             .then((res) => {
-                // console.log(res);
                 dispatch(changeFindData(res.data.data))
             })
             .catch((e) => {
