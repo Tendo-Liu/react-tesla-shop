@@ -54,7 +54,7 @@ const Shop = (props) => {
       >
         <div>
           <div className="teslaShop">
-            <img src="https://gitee.com/Tendo_Liu/image_hosting/raw/master/shop/23-46-44.jpg" />
+            <img src="https://china-community-app.tesla.cn/wechatmini/shop.png" />
           </div>
           <div className="swiper-container">
             <p>T - ZONE</p>

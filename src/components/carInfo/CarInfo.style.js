@@ -13,7 +13,7 @@ export const Container = styled.div`
             font-size: 10px;
             width: 8rem;
             a, h2 {
-                font-size: 5px;
+                font-size: 12px;
                 font-weight: 400;
             }
         }

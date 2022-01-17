@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Model 3",
-            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-40-20.png",
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/model/model3.png",
             "battery": "675",
             "speedUp": "3.3",
             "higtSpeed": "228",
@@ -14,7 +14,7 @@
                     "id": 1,
                     "wheelColor": "white",
                     "name": "18 英寸动力轮毂",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-00.png",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/option-wheels-19-sport.png?&version=v0027d202201131219",
                     "carColor": [
                         {
                             "id": 1,
@@ -23,12 +23,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-33-30.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PBSB,$W41B,$IBW1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-54.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PBSB,$W41B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -39,12 +39,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-30-34.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSW,$W41B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-31-48.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSW,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -55,12 +55,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-37.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PMNG,$W41B,$IBW1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-34.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PMNG,$W41B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -71,12 +71,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-40.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSB,$W41B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-42.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSB,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -87,12 +87,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-42-48.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPMR,$W41B,$IBW1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-42-50.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPMR,$W41B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         }
@@ -102,7 +102,7 @@
                     "id": 2,
                     "wheelColor": "black",
                     "name": "19 英寸运动轮毂",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/15-51-03.png",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/option-wheels-18-aero.png?&version=v0027d202201131219",
                     "carColor": [
                         {
                             "id": 1,
@@ -111,12 +111,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-24.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PBSB,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/black/13-37-13.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PBSB,$W40B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -127,12 +127,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/13-32-42.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSW,$W40B,$IBW1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/white/19-14-26.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSW,$W40B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -143,12 +143,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-46.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/silver/13-43-44.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -159,12 +159,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-14.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSB,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/blue/13-40-18.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSB,$W40B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -175,12 +175,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-41-46.jpg"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPMR,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%203/red/13-41-44.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPMR,$W40B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         }
@@ -191,34 +191,34 @@
                 {
                     "id": 1,
                     "name": "纯黑色",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-40-49.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Black.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 2,
                     "name": "珍珠白",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-45-55.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_White.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 3,
                     "name": "冷光银",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-01.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_MidnightSilver.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 4,
                     "name": "深海蓝",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-03.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Blue.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 5,
                     "name": "中国红",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-05.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Red.png?&version=v0027d202201131219"
                 }
             ]
         },
         {
             "id": 2,
             "name": "Model Y",
-            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-32.png",
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/model/modely.png",
             "battery": "660",
             "speedUp": "5.6",
             "higtSpeed": "217",
@@ -229,7 +229,7 @@
                     "id": 1,
                     "wheelColor": "white",
                     "name": "19 英寸双子星轮毂",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-07.png",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELY/UI/gemini_wheels.png?&version=v0027d202201131219",
                     "carColor": [
                         {
                             "id": 1,
@@ -238,12 +238,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-38-31.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PBSB,$WY19B,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-38-27.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PBSB,$WY19B,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -254,12 +254,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-22.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSW,$WY19B,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-51-43.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSW,$WY19B,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -270,12 +270,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-16.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PMNG,$WY19B,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-13.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PMNG,$WY19B,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -286,12 +286,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-29.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSB,$WY19B,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-27.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSB,$WY19B,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -302,12 +302,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-54-57.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPMR,$WY19B,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-54-54.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPMR,$WY19B,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         }
@@ -317,7 +317,7 @@
                     "id": 2,
                     "wheelColor": "black",
                     "name": "20 英寸感应涡轮轮毂",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/15-46-10.png",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELY/UI/induction_wheels.png?&version=v0027d202201131219",
                     "carColor": [
                         {
                             "id": 1,
@@ -326,12 +326,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/15-47-22.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PBSB,$WY20P,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/black/22-31-17.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PBSB,$WY20P,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -342,12 +342,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-29.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSW,$WY20P,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/white/15-52-27.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSW,$WY20P,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -358,12 +358,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-31.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PMNG,$WY20P,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/silver/15-53-28.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PMNG,$WY20P,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -374,12 +374,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-54-16.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSB,$WY20P,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/blue/15-53-57.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSB,$WY20P,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -390,12 +390,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-55-29.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPMR,$WY20P,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20Y/red/15-55-32.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPMR,$WY20P,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
                                 }
                             ]
                         }
@@ -406,34 +406,34 @@
                 {
                     "id": 1,
                     "name": "纯黑色",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-40-49.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Black.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 2,
                     "name": "珍珠白",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-45-55.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_White.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 3,
                     "name": "冷光银",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-01.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_MidnightSilver.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 4,
                     "name": "深海蓝",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-03.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Blue.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 5,
                     "name": "中国红",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-05.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Red.png?&version=v0027d202201131219"
                 }
             ]
         },
         {
             "id": 3,
             "name": "Model S",
-            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-36.png",
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/model/models.png",
             "battery": "637",
             "speedUp": "2.1",
             "higtSpeed": "322",
@@ -444,7 +444,7 @@
                     "id": 1,
                     "wheelColor": "white",
                     "name": "19 英寸暴风轮毂",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/20-25-57.png",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELS/UI/ui_swat_whl_tempest.png?&version=v0027d202201131219",
                     "carColor": [
                         {
                             "id": 1,
@@ -453,12 +453,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/black/20-03-45.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PBSB,$WS90,$IBE00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/black/20-03-54.png "
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PBSB,$WS90,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -469,12 +469,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/white/20-06-47.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSW,$WS90,$IWW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/white/20-06-35.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSW,$WS90,$IWW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -485,12 +485,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/silver/21-13-31.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PMNG,$WS90,$ICW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/silver/21-13-33.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PMNG,$WS90,$ICW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -501,12 +501,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/blue/20-11-19.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSB,$WS90,$IWW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/blue/20-11-16.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSB,$WS90,$IWW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -517,12 +517,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/red/20-11-58.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPMR,$WS90,$IWW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/red/20-11-53.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPMR,$WS90,$IWW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         }
@@ -532,7 +532,7 @@
                     "id": 2,
                     "wheelColor": "black",
                     "name": "21 英寸蛛网轮毂",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/20-26-00.png",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELS/UI/21Arachnid.png?&version=v0027d202201131219",
                     "carColor": [
                         {
                             "id": 1,
@@ -541,12 +541,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/black/20-04-23.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PBSB,$WS10,$IWW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/black/20-04-21.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PBSB,$WS10,$IWW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -557,12 +557,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/white/20-05-40.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSW,$WS10,$ICW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/white/20-05-38.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSW,$WS10,$ICW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -573,12 +573,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/silver/20-07-34.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PMNG,$WS10,$ICW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/silver/20-07-32.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PMNG,$WS10,$ICW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -589,12 +589,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/blue/20-09-42.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSB,$WS10,$IBE00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/blue/20-09-41.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSB,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -605,12 +605,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/red/20-12-08.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPMR,$WS10,$IBE00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20S/red/20-12-06.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPMR,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
                                 }
                             ]
                         }
@@ -621,34 +621,34 @@
                 {
                     "id": 1,
                     "name": "纯黑色",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-40-49.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Black.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 2,
                     "name": "珍珠白",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-45-55.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_White.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 3,
                     "name": "冷光银",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-01.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_MidnightSilver.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 4,
                     "name": "深海蓝",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-03.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Blue.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 5,
                     "name": "中国红",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-05.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Red.png?&version=v0027d202201131219"
                 }
             ]
         },
         {
             "id": 4,
             "name": "Model X",
-            "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/scroll1/23-46-39.png",
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/model/modelx.png",
             "battery": "547",
             "speedUp": "2.6",
             "higtSpeed": "249",
@@ -659,7 +659,7 @@
                     "id": 1,
                     "wheelColor": "white",
                     "name": "20 英寸赛博流轮毂",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/20-29-21.png",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELX/UI/20Cyberstream.png?&version=v0027d202201131219",
                     "carColor": [
                         {
                             "id": 1,
@@ -668,12 +668,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/black/20-30-55.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PBSB,$WX00,$IBE00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/black/20-30-52.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PBSB,$WX00,$IBE00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -684,12 +684,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/white/20-33-53.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSW,$WX00,$IBE00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/white/20-33-48.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSW,$WX00,$IBE00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -700,12 +700,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/silver/20-34-58.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PMNG,$WX00,$ICW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/silver/20-34-55.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PMNG,$WX00,$ICW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -716,12 +716,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/blue/20-36-09.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSB,$WX00,$ICW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/blue/20-36-05.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSB,$WX00,$ICW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -732,12 +732,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/red/20-36-44.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPMR,$WX00,$ICW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_white",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/red/20-36-47.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPMR,$WX00,$ICW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         }
@@ -747,7 +747,7 @@
                     "id": 2,
                     "wheelColor": "black",
                     "name": "22 英寸涡轮轮毂",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/20-29-19.png",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELX/UI/22Turbine.png?&version=v0027d202201131219",
                     "carColor": [
                         {
                             "id": 1,
@@ -756,12 +756,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/black/20-33-08.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PBSB,$WX20,$IBE00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/black/20-33-00.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PBSB,$WX20,$IBE00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -772,12 +772,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/white/20-34-11.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSW,$WX20,$IWW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/white/20-34-18.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSW,$WX20,$IWW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -788,12 +788,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/silver/20-34-50.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PMNG,$WX20,$IWW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/silver/20-34-47.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PMNG,$WX20,$IWW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -804,12 +804,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/blue/20-35-51.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSB,$WX20,$ICW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/blue/20-35-55.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSB,$WX20,$ICW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         },
@@ -820,12 +820,12 @@
                                 {
                                     "id": 1,
                                     "name": "head_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/red/20-36-37.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPMR,$WX20,$IWW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
                                 },
                                 {
                                     "id": 2,
                                     "name": "body_black",
-                                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/Model%20X/red/20-36-34.png"
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPMR,$WX20,$IWW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
                                 }
                             ]
                         }
@@ -836,27 +836,27 @@
                 {
                     "id": 1,
                     "name": "纯黑色",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-40-49.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Black.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 2,
                     "name": "珍珠白",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-45-55.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_White.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 3,
                     "name": "冷光银",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-01.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_MidnightSilver.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 4,
                     "name": "深海蓝",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-03.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Blue.png?&version=v0027d202201131219"
                 },
                 {
                     "id": 5,
                     "name": "中国红",
-                    "picUrl": "https://gitee.com/Tendo_Liu/image_hosting/raw/master/carInfo/item/15-46-05.png"
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Red.png?&version=v0027d202201131219"
                 }
             ]
         }

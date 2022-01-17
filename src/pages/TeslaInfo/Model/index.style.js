@@ -127,7 +127,7 @@ export const Container = styled.div`
                 position: absolute;
                 display: block;
                 top: 1.57rem;
-                margin-left: 0.05rem;
+                margin-left: 0.08rem;
             }
         }
     }

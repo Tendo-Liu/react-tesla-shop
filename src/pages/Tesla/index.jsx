@@ -47,12 +47,12 @@ const Tesla = (props) => {
           <div className="teslaDrive">
             <h1>未来驾驶体验</h1>
             <h2>车辆自动召唤，跑车级百公里加速，在车里打游戏，免费到店体验特斯拉驾驶方式</h2>
-            <img src="https://gitee.com/Tendo_Liu/image_hosting/raw/master/23-46-42.png" />
+            <img src="https://china-community-app.tesla.cn/wechatmini/img01.png" />
             <button onClick={() => goToOrder(rotationImg)} className='testDrive'>预约试驾</button>
           </div>
           <div className="teslaGuideBook">
             <h1>新手使用指南</h1>
-            <img src="https://gitee.com/Tendo_Liu/image_hosting/raw/master/23-47-05.png" />
+            <img src="https://china-community-app.tesla.cn/wechatmini/card_bg.png" />
           </div>
         </div>
       </Scroll>
