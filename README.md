@@ -176,3 +176,20 @@ React + React Hooks + Koa  特斯拉商城应用
             }
         }
       })
+
+
+#### data: 01/17 总结
+  author: Tendo
+
+  1. 首页长列表业务怎么做？
+    后端从ctx.params拿到page
+    页面用redux(数据流处理的一致性) 或者 useState mvvm
+
+  2. 列表图片的性能优化
+    react-lazyload
+    包装img placeholder
+
+  3. scroll组件的 onScroll 属性里面加上 forceCheck()
+    加一个timeout会更好看
+
+  4. 项目上线
