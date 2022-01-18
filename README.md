@@ -193,3 +193,11 @@ React + React Hooks + Koa  特斯拉商城应用
     加一个timeout会更好看
 
   4. 项目上线
+
+
+#### data: 01/18 总结
+  author: Tendo
+
+  1. 发现页详情页编写
+
+  2. 商品页如何写吸顶组件，并会睡着scroll滚动而改变样式
