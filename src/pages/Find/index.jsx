@@ -6,9 +6,15 @@ import { Main } from "./index.style";
 import Lazyload, { forceCheck } from 'react-lazyload'
 import loading from '../../assets/Images/1.gif'
 import loading2 from '../../assets/Images/loading.gif'
-import { debounce } from "../../api/utils";
+import { useHistory } from "react-router-dom";
+import { renderRoutes } from 'react-router-config';
+
 
 const Find = (props) => {
+
+  const history = useHistory()
+
+  const { route } = props
 
   let [page, setPage] = useState(1)
 
@@ -34,7 +40,7 @@ const Find = (props) => {
 
   // 上拉加载更多
   const handlePullUp = () => {
-    if (isLoading) return ;
+    if (isLoading) return;
     setPage(++page)
     setIsLoading(true)
   }
@@ -42,6 +48,10 @@ const Find = (props) => {
   // 下拉刷新
   const handlePullDown = () => {
 
+  }
+
+  const gotoNews = (item) => {
+    history.push({ pathname: `/find/${item.id}`, state: item })
   }
 
   return (
@@ -68,7 +78,7 @@ const Find = (props) => {
             {
               newsList.map((item, index) => {
                 return (
-                  <div className="news" key={index}>
+                  <div className="news" key={index} onClick={() => gotoNews(item)}>
                     <div className="newsLeft">
                       <h1>{item.title}</h1>
                       <p>{item.date}</p>
@@ -93,6 +103,8 @@ const Find = (props) => {
       <div className={isLoading ? 'pullUpLoading' : ''}>
         <img src={loading2} />
       </div>
+      {/* 一定要开启子路由 */}
+      {renderRoutes(route.routes)}
     </Main>
   )
 }
@@ -108,7 +120,6 @@ const mapStateToDispatch = (dispatch) => {
   return {
     getFindDataDispatch(page) {
       dispatch(actionCreators.getFindData(page))
-     
     }
   }
 }

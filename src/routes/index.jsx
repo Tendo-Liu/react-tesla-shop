@@ -13,6 +13,7 @@ const Model = lazy(() => import('../pages/TeslaInfo/Model'))
 const Order = lazy(() => import('../pages/TeslaInfo/Order'))
 const TeslaZone = lazy(() => import('../pages/ShopInfo/TeslaZone'))
 const TeslaShop = lazy(() => import('../pages/ShopInfo/TeslaShop'))
+const News = lazy(() => import('../pages/FindInfo/News'))
 
 const SuspenseComponent = Component => props => {
     return (
@@ -33,7 +34,13 @@ export default [{
         },
         {
             path: "/find",
-            component: SuspenseComponent(Find)
+            component: SuspenseComponent(Find),
+            routes: [
+                {
+                    path: '/find/:id',
+                    component: SuspenseComponent(News)
+                }
+            ]
         },
         {
             path: "/tesla",
