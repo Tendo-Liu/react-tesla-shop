@@ -16,5 +16,82 @@
             "id": 4,
             "picUrl": "https://china-community-app.tesla.cn/wechatmini/magazine/202109/0001.jpg"
         }
-    ]
+    ],
+    "bestSelling": [
+        {
+            "id": 1,
+            "title": "男装 Cybertruck 猫头鹰 短袖T恤",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/LIFESTYLE/TOPS/TSHIRTS/7654393-00-A_0.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Model Y 脚垫套餐",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_Y/INTERIOR/1616599-00-A_3.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Model Y 后备箱储物盒",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_Y/INTERIOR/1658688-00-A_0.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Model 3/Y 中控台托盘",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_3/INTERIOR/1634268-00-A_0.jpg"
+        },
+        {
+            "id": 5,
+            "title": "我的第一辆 Model Y (儿童学步车)",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/LIFESTYLE/KIDS/TOYS/1614847-00-A_0.jpg"
+        }
+    ],
+    "goods": [
+        {
+            "id": 1,
+            "title": "Model S 配件",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/models-mobile.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Model 3 配件",
+            "color": "white",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/v2/model3-mobile@2x.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Model X 配件",
+            "color": "white",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/modelx-mobile@2x.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Model Y 配件",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/model_y-mobile.jpg"
+        },
+        {
+            "id": 5,
+            "title": "充电产品",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/charging-gen3.jpg"
+        },
+        {
+            "id": 6,
+            "title": "男装",
+            "color": "white",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/mens-mobile.jpg"
+        },
+        {
+            "id": 7,
+            "title": "女装",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/womens-mobile@2x.jpg"
+        },
+        {
+            "id": 8 ,
+            "title": "周边精品",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/lifestyle-mobile.jpg"
+        }
+    ] 
 }

@@ -8,7 +8,7 @@ const Map = () => {
   const { setContainer, map, setAutoLocalCity } = useMap({
     enableScrollWheelZoom: true, // 启用滚轮放大缩小，默认禁用
     zoom: 13.5,
-    center: '北京',
+    center: '上海'
     // widget: ['GeolocationControl', 'NavigationControl']
   });
   useEffect(() => {

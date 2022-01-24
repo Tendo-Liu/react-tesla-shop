@@ -27,6 +27,10 @@ const Shop = (props) => {
     history.push({ pathname: `/shop/teslaZone/${item.id}`, state: item })
   }
 
+  const goShop = () => {
+    history.push({ pathname: '/shop/teslaShop', state: shopdata })
+  }
+
   useEffect(() => {
     if (!shopdata.length) {
       getShopDataDispatch()
@@ -53,8 +57,8 @@ const Shop = (props) => {
         refresh={false} // 下拉更新为false
       >
         <div>
-          <div className="teslaShop">
-            <img src="https://china-community-app.tesla.cn/wechatmini/shop.png" />
+          <div className="teslaShop" onClick={() => goShop()}>
+            <img src="https://china-community-app.tesla.cn/wechatmini/shop.png"/>
           </div>
           <div className="swiper-container">
             <p>T - ZONE</p>
