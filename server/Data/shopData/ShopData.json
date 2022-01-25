@@ -17,33 +17,6 @@
             "picUrl": "https://china-community-app.tesla.cn/wechatmini/magazine/202109/0001.jpg"
         }
     ],
-    "bestSelling": [
-        {
-            "id": 1,
-            "title": "男装 Cybertruck 猫头鹰 短袖T恤",
-            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/LIFESTYLE/TOPS/TSHIRTS/7654393-00-A_0.jpg"
-        },
-        {
-            "id": 2,
-            "title": "Model Y 脚垫套餐",
-            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_Y/INTERIOR/1616599-00-A_3.jpg"
-        },
-        {
-            "id": 3,
-            "title": "Model Y 后备箱储物盒",
-            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_Y/INTERIOR/1658688-00-A_0.jpg"
-        },
-        {
-            "id": 4,
-            "title": "Model 3/Y 中控台托盘",
-            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_3/INTERIOR/1634268-00-A_0.jpg"
-        },
-        {
-            "id": 5,
-            "title": "我的第一辆 Model Y (儿童学步车)",
-            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/LIFESTYLE/KIDS/TOYS/1614847-00-A_0.jpg"
-        }
-    ],
     "goods": [
         {
             "id": 1,
